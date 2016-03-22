@@ -1,0 +1,14 @@
+<html>
+<head>
+</head>
+<body>
+	<form action="/item/" method="post">
+		
+		Link:<input type="text" name="item" value="Enter the link"/>
+		<br />
+		<br />
+		<input type="submit" value="Submit"/>		
+	</form>
+	
+</body>
+</html>
